@@ -1,0 +1,12 @@
+[
+	{
+		"PackageID":"redfix-0001",
+		"Version":"1.0",
+		"AppliesUntim":"0.1.0.0",
+		"Description":"Fixes a privilege escalation in Pandora s daemon.",
+		"DownloadUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Headquarters/main/redfix/redfix-0001/redfix-0001.tar.gz",
+		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Headquarters/main/redfix/redfix-0001/redfix-0001.sig",
+		"BuildID":"bee71517a1d68fc4c9e0ee7db622d420309de4f11219ca47334979c74b4d2b4f",
+		"Date":1754312857
+	}
+]
