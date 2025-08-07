@@ -1,11 +1,12 @@
 [
     {
-        "ID": "RX-20250803-RW-0001",
-        "Date": "2025-08-03T20:46:12Z",
-        "From": "Ulysse - Admiral RedSword",
+        "ID": "RX-20250807-RW-0001",
+        "Date": "2025-08-07T20:26:20Z",
+        "Timestamp": "1754598380",
+        "From": "Ulysse - Admiral of RedSword",
         "To": "All Commanders",
-        "Priority": "CRITICAL",
-        "Subject": "test",
-        "Message": "dede\n\n--- End Of Transmission ---"
+        "Priority": "NOTICE",
+        "Subject": "Welcome",
+        "Message": "Commander,\n\nWelcome to the RedSword Fleet.\n\nThis new instance of Pandora Infinity is entirely under your control and responsibility.\n\nAs a Commander of RedSword, you are expected to uphold our code and remain ethical at all times.\n\nRemember to visit headquarters from time to time to learn more about your mothership."
     }
 ]
